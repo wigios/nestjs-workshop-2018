@@ -1,0 +1,102 @@
+MIT License
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+MIT License
+Publisher	Massachusetts Institute of Technology
+DFSG compatible	Yes[1]
+FSF approved	Yes[2][3]
+OSI approved	Yes[4]
+GPL compatible	Yes[2][3]
+Copyleft	No[2][3]
+Linking from code with a different license	Yes
+The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT).[5] As a permissive license, it puts only very limited restriction on reuse and has, therefore, an excellent license compatibility.[6][7] The MIT license permits reuse within proprietary software provided that all copies of the licensed software include a copy of the MIT License terms and the copyright notice. The MIT license is also compatible with many copyleft licenses, such as the GNU General Public License (GPL); MIT licensed software can be integrated into GPL software, but not the other way around.[8]
+
+As of 2015, it was the most popular software license on GitHub, ahead of any GPL variant and other free and open-source software (FOSS) licenses.[9] Notable projects that use one of the versions of the MIT License include Ruby on Rails, Node.js, jQuery, and the X Window System.
+
+
+Contents
+1	License terms
+2	Variants
+3	Comparison to other licenses
+4	Relation to Patents
+5	Reception
+6	See also
+7	References
+8	Further reading
+9	External links
+License terms
+A common form of the MIT License is this (taken from the Open Source Initiative's website; this is identical to the "Expat License", and different from the license used in the X source code):[10]
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+An intermediate form of license used by the X Consortium for X11 used the following wording:[11]
+
+Copyright (C) <date> X Consortium
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the X Consortium.
+
+X Window System is a trademark of X Consortium, Inc.
+Variants
+Because MIT has used many licenses for software, the Free Software Foundation considers "MIT License" ambiguous. "MIT License" may refer to the Expat License (used for the XML parsing library Expat)[12] or to the X11 License (also called "MIT/X Consortium License"; used for the X Window System by the MIT X Consortium).[13] The "MIT License" published by the Open Source Initiative[10] is the same as the "Expat License".
+
+The X11 License[13] and the "MIT License" chosen for ncurses by the Free Software Foundation[14] both include the following clause, absent in the Expat License:[12]
+
+Except as contained in this notice, the name(s) of the above copyright holders shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization.
+
+Comparison to other licenses
+The original BSD license also includes a clause requiring all advertising of the software to display a notice crediting its authors. This "advertising clause" (since disavowed by UC Berkeley[15]) is present in the modified MIT License used by XFree86.
+
+The University of Illinois/NCSA Open Source License combines text from both the MIT and BSD licenses; the license grant and disclaimer are taken from the MIT License.
+
+The ISC license contains similarities to both the MIT and simplified BSD licenses, the biggest difference being that language deemed unnecessary by the Berne Convention is omitted.[16][17]
+
+Relation to Patents
+Like the BSD license the MIT license does not include an express patent license. Both the BSD and the MIT licenses were drafted before the patentability of software was generally recognized under US law.[18] A similarly permissive license, which includes an explicit contributor's patent license, is the Apache License version 2.0+.[2] The MIT license contains terms that are used in defining the rights of a patent holder in 35 U.S Code section 154 namely "use", and "sell". This has been construed by some commentators as an implicit license to use any underlying patents.[19]
+
+Reception
+As of 2015, according to Black Duck Software[20][better source needed] and a 2015 blog[9] from GitHub, the MIT license was the most popular free software license, with the GNU GPLv2 coming second in their sample of repositories. In June 2016 an analysis of the Fedora Project's packages revealed the MIT as most used license.[21][not in citation given]
+
+Notable projects that use one of the versions of the MIT License include Expat, an XML parser library; Ruby on Rails, a web application framework; Node.js, a web application runtime environment; jQuery, a JavaScript library; the Lua programming language; and the X Window System, for which the license was originally written. Microsoft's .NET Core framework is also published under MIT License and the source code repository on GitHub includes the license for anyone visiting the resource.
+
+See also
+	Free software portal
+Comparison of free and open-source software licenses
+ISC license – similar to the MIT license, but with language deemed unnecessary removed
+Software using the MIT license
+References
+ "License information". The Debian Project. Software in the Public Interest (published 2017-07-12). 1997–2017. Archived from the original on 2017-07-20. Retrieved 2017-07-20. ... This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG). ... Licenses currently found in Debian main include:
+...
+Expat/MIT-style licenses
+...
+ "Various Licenses and Comments about Them". The GNU Project. Free Software Foundation (published 2017-04-04). 2014–2017. Expat License. Archived from the original on 2017-07-20. Retrieved 2017-07-20. ... This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is sometimes ambiguously referred to as the MIT License. ...
+ "Various Licenses and Comments about Them". The GNU Project. Free Software Foundation (published 2017-04-04). 2014–2017. X11 License. Archived from the original on 2017-07-20. Retrieved 2017-07-20. ... This is a lax permissive non-copyleft free software license, compatible with the GNU GPL. ... This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software. ...
+ "Licenses by Name". Open Source Initiative. n.d. Archived from the original on 2017-07-20. Retrieved 2017-07-20. ... The following licenses have been approved by the OSI. ...
+...
+MIT License (MIT)
+...
+ Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)
+ Hanwell, Marcus D. (2014-01-28). "Should I use a permissive license? Copyleft? Or something in the middle?". opensource.com. Retrieved 2015-05-30. Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.
+ "Licence Compatibility and Interoperability". Open-Source Software - Develop, share, and reuse open source software for public administrations. joinup.ec.europa.eu. Archived from the original on 2015-06-17. Retrieved 2015-05-30. The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary').
